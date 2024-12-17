@@ -14,6 +14,8 @@ This interactive HR Analytics Dashboard analyzes employee attrition data to unco
 6. Bar Graph: Displays attrition counts by job role, offering detailed insights into role-specific turnover.
 
  # Insights: Key Insights for the Human Resources Department
+ 
+ ![HR DashBoard Human Resources ](https://github.com/user-attachments/assets/50d0990a-6442-421f-ac6d-533f801b8809)
 
 1. Out of 62 employees, 12 have left, resulting in an attrition rate of ~19%, which is concerning for a department that plays a central role in employee retention.
 Average Age:
@@ -28,9 +30,6 @@ Salary Insights:
 Attrition Timeline:
 
 5. Most attrition occurred within the first year of employment, suggesting challenges with onboarding, job satisfaction, or role expectations in the early stages.
-
-
-![HR DashBoard Human Resources ](https://github.com/user-attachments/assets/50d0990a-6442-421f-ac6d-533f801b8809)
 
 # Key Insights for the Sales Department:
 
@@ -47,8 +46,6 @@ Attrition Timeline:
 # Key Insights for the Resarch Department:
 
 ![HR DashBoard Resarch](https://github.com/user-attachments/assets/5a88ef70-8149-4498-9ab0-2b57a2d8b5a3)
-
-ducation Background:
 
 1. 46% of employees in the Research department have a background in Life Sciences.
 
