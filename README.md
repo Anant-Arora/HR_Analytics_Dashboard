@@ -13,8 +13,7 @@ This interactive HR Analytics Dashboard analyzes employee attrition data to unco
 
 6. Bar Graph: Displays attrition counts by job role, offering detailed insights into role-specific turnover.
 
-7. # Insights:
-8. Key Insights for the Human Resources Department
+ # Insights:Key Insights for the Human Resources Department
 Attrition Rate:
 
 1. Out of 62 employees, 12 have left, resulting in an attrition rate of ~19%, which is concerning for a department that plays a central role in employee retention.
@@ -30,3 +29,5 @@ Salary Insights:
 Attrition Timeline:
 
 5. Most attrition occurred within the first year of employment, suggesting challenges with onboarding, job satisfaction, or role expectations in the early stages.
+
+[HR Analytics Dashboard Human Resource.pdf](https://github.com/user-attachments/files/18165208/HR.Analytics.Dashboard.Human.Resource.pdf)
