@@ -46,7 +46,7 @@ Attrition Timeline:
 
 # Key Insights for the Resarch Department:
 
-[HR Analytics Dashboard research.pdf](https://github.com/user-attachments/files/18165330/HR.Analytics.Dashboard.research.pdf)
+![HR DashBoard Resarch](https://github.com/user-attachments/assets/5a88ef70-8149-4498-9ab0-2b57a2d8b5a3)
 
 ducation Background:
 
