@@ -30,4 +30,5 @@ Attrition Timeline:
 
 5. Most attrition occurred within the first year of employment, suggesting challenges with onboarding, job satisfaction, or role expectations in the early stages.
 
-[HR Analytics Dashboard Human Resource.pdf](https://github.com/user-attachments/files/18165208/HR.Analytics.Dashboard.Human.Resource.pdf)
+
+![HR DashBoard Human Resources ](https://github.com/user-attachments/assets/50d0990a-6442-421f-ac6d-533f801b8809)
