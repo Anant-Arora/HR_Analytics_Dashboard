@@ -12,3 +12,21 @@ This interactive HR Analytics Dashboard analyzes employee attrition data to unco
 5. Bar Graph: Highlights attrition across age groups, showcasing generational trends.
 
 6. Bar Graph: Displays attrition counts by job role, offering detailed insights into role-specific turnover.
+
+7. # Insights:
+8. Key Insights for the Human Resources Department
+Attrition Rate:
+
+1. Out of 62 employees, 12 have left, resulting in an attrition rate of ~19%, which is concerning for a department that plays a central role in employee retention.
+Average Age:
+
+2. The average age of employees in the HR department is 38 years, indicating a relatively experienced workforce.
+Education Background:
+
+3. 58% of employees have completed education specifically in Human Resources, showcasing a strong alignment between educational background and job roles.
+Salary Insights:
+
+4. The average salary of ₹7,000 may contribute to the attrition, as lower compensation can lead to dissatisfaction, especially among experienced employees.
+Attrition Timeline:
+
+5. Most attrition occurred within the first year of employment, suggesting challenges with onboarding, job satisfaction, or role expectations in the early stages.
